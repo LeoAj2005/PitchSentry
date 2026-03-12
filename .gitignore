@@ -17,3 +17,6 @@ data/*.npy
 # OS Files
 .DS_Store
 Thumbs.db
+
+#logs
+clean
