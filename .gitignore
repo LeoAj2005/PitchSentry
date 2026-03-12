@@ -1,0 +1,19 @@
+.env# Python & Environments
+venv/
+__pycache__/
+*.pyc
+
+# Secrets & Configs
+.env
+
+# Heavy AI Artifacts & Datasets
+datasets/raw_videos/
+datasets/extracted_frames/
+datasets/yolo_format/
+models/**/*.pt
+models/**/*.engine
+data/*.npy
+
+# OS Files
+.DS_Store
+Thumbs.db
